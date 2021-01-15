@@ -1,5 +1,20 @@
 ### Hi there 👋
 
+Hi, I’m Metaron, a postgraduate in the Vocational Male College of Technology of Tang Lang. 
+- 🔭 I also have been a Back-end Development intern in CSIG of Tencent. 
+- 🌱 I’m interested in the technologies of back-end, knowledge graph, and other machine learning technologies.
+
+
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=wwzzyyzzrr&show_icons=true&theme=dark&count_private=true)
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wwzzyyzzrr&theme=dark&layout=compact)
+
+
+### Website
+Here is my personal site and I will record some note on it.
+
+[Metaron is a vegetable sphere](https://blog.metaron.xyz/)
 <!--
 **wwzzyyzzrr/wwzzyyzzrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
