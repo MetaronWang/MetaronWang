@@ -6,9 +6,9 @@ Hi, I’m Metaron, a postgraduate in the Vocational Male College of Technology o
 
 
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=wwzzyyzzrr&show_icons=true&theme=dark&count_private=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=metaronwang&show_icons=true&theme=dark&count_private=true)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wwzzyyzzrr&theme=dark&layout=compact)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=metaronwang&theme=dark&layout=compact)
 
 
 ### Website
@@ -16,7 +16,7 @@ Here is my personal site and I will record some note on it.
 
 [Metaron is a vegetable sphere](https://blog.metaron.xyz/)
 <!--
-**wwzzyyzzrr/wwzzyyzzrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**metaronwang/metaronwang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
