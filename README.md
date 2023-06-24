@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-Hi, I’m Metaron, a postgraduate in the Vocational Male College of Technology of Tang Lang. 
+Hi, I’m Metaron, a CSE PhD Student in the Vocational Male College of Technology of Tang Lang. 
 - 🔭 I also have been a Back-end Development intern in CSIG of Tencent and a Research intern in OPPO.
-- 🌱 I’m interested in the technologies of back-end, knowledge graph, and other machine learning technologies.
+- 🌱 I’m interested in the technologies of back-end, machine learning technologies.
 
 
 
