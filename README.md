@@ -6,9 +6,9 @@ Hi, I’m Metaron, a CSE PhD Candidate in the Vocational Male College of Technol
 
 
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=metaronwang&show_icons=true&theme=dark&count_private=true)
+![Github Stats](https://github-readme-stats.shion.dev/api?username=metaronwang&show_icons=true&theme=dark&count_private=true)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=metaronwang&theme=dark&layout=compact)
+![Most Used Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=metaronwang&theme=dark&layout=compact)
 
 
 ### Website
