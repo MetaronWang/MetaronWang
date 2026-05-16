@@ -11,10 +11,7 @@ Hi, I’m Metaron, a CSE PhD Candidate in the Vocational Male College of Technol
 ![Most Used Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=metaronwang&theme=dark&layout=compact)
 
 
-### Website
-Here is my personal site and I will record some note on it.
 
-[Metaron's Blogs](https://blog.metaron.wang/)
 <!--
 **metaronwang/metaronwang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
